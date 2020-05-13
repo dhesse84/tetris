@@ -14,7 +14,7 @@ Version history:
 
 v1.0: first version
 
-v1.1: graphic upgrade
+v1.1: graphics upgrade
 
 v1.2: bug fixes (CapsLock is ignored, allow theme changes during gameplay)
 
