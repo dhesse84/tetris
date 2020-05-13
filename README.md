@@ -7,6 +7,7 @@ Be sure to allow permissions/enable content on the sheet in order to play.
 Enjoy!
 
 This version is a non-commercial, fan-made project in homage to the original Tetris. Tetris is property of The Tetris Company, LLC.
+
 ~DH
 
 Version history:
