@@ -11,7 +11,10 @@ This version is a non-commercial, fan-made project in homage to the original Tet
 ~DH
 
 Version history:
-v1.0
-v1.1: visual upgrades
-v1.2: bug fix to allow changing the theme during gameplay
+
+v1.0: first version
+
+v1.1: graphic upgrade
+
+v1.2: bug fixes (CapsLock is ignored, allow theme changes during gameplay)
 
